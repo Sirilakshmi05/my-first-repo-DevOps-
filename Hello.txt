@@ -2,3 +2,4 @@ Sirilakshmi Gujjula
 Bsc Artificial Intelligence
 237104082
 Learning About GitHub : GitHub is a web-based platform built around Git, a distributed version control system. It provides a centralized location for hosting Git repositories and offers a suite of tools and features to facilitate collaboration, code management, and project tracking.
+Subjects: Telugu, Hindi, English
